@@ -6,4 +6,4 @@
 
 **Tomorrow:** begin to code visitor and ast package mok.
 
-*[ddl reference wiki](https://en.wikipedia.org/wiki/Data_definition_language#DROP_statement)
+[ddl:reference wiki](https://en.wikipedia.org/wiki/Data_definition_language#DROP_statement)
