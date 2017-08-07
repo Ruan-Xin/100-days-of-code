@@ -2,7 +2,7 @@
 
 ### Day 0: August 6, 2017
 
-**Today's Progress**: parse drop and alter grammar, alter is only supported to modified for column, consummation ddl.
+**Today's Progress**: parse drop and alter grammar, alter is only supported to modified for column,and consummate ddl grammar.
 
 **Tomorrow:** begin to code visitor and ast package mok.
 
