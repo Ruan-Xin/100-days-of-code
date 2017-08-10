@@ -15,3 +15,10 @@
 
 **Tomorrow:** begin to code visitor and ast package mock.
 
+
+### Day 2: August 8, 2017
+
+**Today's Progress**: build base visitor ,ast, log package and do some test case.
+
+**Tomorrow:** test parser.
+
