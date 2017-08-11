@@ -22,3 +22,8 @@
 
 **Tomorrow:** test parser.
 
+### Day 3: August 10, 2017
+
+**Today's Progress**: ddl, dml bugfix, consummate SQLParserUntil.
+
+**Tomorrow:** test dql parser.
