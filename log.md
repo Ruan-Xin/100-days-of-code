@@ -22,8 +22,16 @@
 
 **Tomorrow:** test parser.
 
+
 ### Day 3: August 10, 2017
 
 **Today's Progress**: ddl, dml bugfix, consummate SQLParserUntil.
 
 **Tomorrow:** test dql parser.
+
+
+### Day 4: August 11, 2017
+
+**Today's Progress**: add new field ast type to reduce go through and then test the dql parser.
+
+**Tomorrow:** test parser and code visitor and ast.
