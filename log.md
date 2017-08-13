@@ -35,3 +35,10 @@
 **Today's Progress**: add new field ast type to reduce go through and then test the dql parser.
 
 **Tomorrow:** test parser and code visitor and ast.
+
+
+### Day 5: August 12, 2017
+
+**Today's Progress**: large change in today,finished the parser test(the select emmm...) I have finished the log system from com.alibaba.druid to my pro, and finished some utils, and visitor elements.
+
+**Tomorrow:** finish the visitor and ast coding and begin test b-tree.
