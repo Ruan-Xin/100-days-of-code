@@ -43,3 +43,13 @@
 
 **Tomorrow:** finish the visitor and ast coding and begin test b-tree.
 [reference com.alibaba.druid](https://github.com/alibaba/druid)
+
+### Day 6: August 13, 2017
+**Today's Progress**: coding for visitor and ast
+
+**Tomorrow:** coding for visitor and ast so large jobs.
+
+### Day 7: August 14, 2017
+**Today's Progress**: coding for visitor and ast
+
+**Tomorrow:** finish visiotr and ast, working is busy but i can't stop.
