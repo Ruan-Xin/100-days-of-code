@@ -53,3 +53,13 @@
 **Today's Progress**: coding for visitor and ast
 
 **Tomorrow:** finish visiotr and ast, working is busy but i can't stop.
+
+### Day 8: August 15, 2017
+**Today's Progress**: coding for visitor and ast
+
+**Tomorrow:** finish visiotr and ast, begin to coding builder.
+
+### Day 9: August 16, 2017
+**Today's Progress**: finish parser
+
+**Tomorrow:** begin to coding b-tree.
