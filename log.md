@@ -63,3 +63,28 @@
 **Today's Progress**: finish parser
 
 **Tomorrow:** begin to coding b-tree.
+
+### Day 10: August 17, 2017
+**Today's Progress**: refactor the parser and builder
+
+**Tomorrow:** continue refactor.
+
+### Day 11: August 18, 2017
+**Today's Progress**: refactor the parser and builder
+
+**Tomorrow:** continue refactor.
+
+### Day 12: August 19, 2017
+**Today's Progress**: remove the bpt and overrite it
+
+**Tomorrow:** continue.
+
+### Day 13: August 20, 2017
+**Today's Progress**: remove the bpt and overrite it
+
+**Tomorrow:** continue.find resource about bpt
+
+### Day 14: August 21, 2017
+**Today's Progress**: remove and overrite
+
+**Tomorrow:** continue.find resource about bpt
